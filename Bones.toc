@@ -1,0 +1,6 @@
+## Interface: 70300
+## Title: Bones|cffbbbbbb by|cffd00d00 Intoxx
+## Author: Intoxx (Eadwin-Defias-Brotherhood)
+## Version: 0.4
+
+Bones.lua
